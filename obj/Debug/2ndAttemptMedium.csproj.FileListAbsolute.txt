@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\2ndAttemptMedium\2ndAttemptMedium\obj\Debug\2ndAttemptMedium.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\2ndAttemptMedium\2ndAttemptMedium\obj\Debug\2ndAttemptMedium.csproj.CoreCompileInputs.cache
